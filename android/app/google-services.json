@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781461991523",
+    "project_id": "fabtime-bbfcd",
+    "storage_bucket": "fabtime-bbfcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781461991523:android:571355f5f0be06c26b8856",
+        "android_client_info": {
+          "package_name": "com.fabtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781461991523-gg4vmlt4icf2u9i7be92k0ogigqcb16l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxJRXEdU7o6jzIJJZ6JYjLs81A8acspr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781461991523-gg4vmlt4icf2u9i7be92k0ogigqcb16l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

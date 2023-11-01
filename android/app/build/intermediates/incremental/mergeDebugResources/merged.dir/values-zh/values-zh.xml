@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint.fit">使您的脸适合椭圆形</string>
+    <string name="hint.lookStraight">直看</string>
+    <string name="hint.moveAway">移开</string>
+    <string name="hint.moveCloser">靠近点</string>
+    <string name="hint.stayStill">持稳</string>
+    <string name="livenessProcessing.title.processing">处理中...</string>
+    <string name="livenessRetry.action.retry">重试</string>
+    <string name="livenessRetry.text.guidelines">但请遵循以下准则：</string>
+    <string name="livenessRetry.text.noGlare">没有眩光或极端照明</string>
+    <string name="livenessRetry.text.noSmiling">中立的表情，没有微笑</string>
+    <string name="livenessRetry.title.tryAgain">再试一次</string>
+    <string name="noCameraPermission.title.unavailable">相机不可用</string>
+    <string name="strPrepareCamera">正在准备相机</string>
+    <string name="ucrop_label_edit_photo">裁剪</string>
+    <string name="ucrop_label_original">原始比例</string>
+    <string name="ucrop_menu_crop">裁剪</string>
+</resources>

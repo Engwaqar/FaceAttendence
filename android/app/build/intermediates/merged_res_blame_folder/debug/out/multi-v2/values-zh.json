@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/macbookpro/Documents/GitHub/NewKhan/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-3/b4af2acf797b741ae49f80db2d680ab1/transformed/jetified-api-3.1.1351/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,151,196,244,290,361,419,487,552,620,682,753",
+                        "endColumns": "46,48,44,47,45,70,57,67,64,67,61,70,51",
+                        "endOffsets": "97,146,191,239,285,356,414,482,547,615,677,748,800"
+                    }
+                },
+                {
+                    "source": "/Users/macbookpro/.gradle/caches/transforms-3/8faf25fac13e2efb3763704afe667720/transformed/jetified-ucrop-2.2.6-native/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    },
+                    "to": {
+                        "startLines": "15,16,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "805,859,913",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "854,908,955"
+                    }
+                }
+            ]
+        }
+    ]
+}

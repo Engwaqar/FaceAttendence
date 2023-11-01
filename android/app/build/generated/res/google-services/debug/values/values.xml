@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">781461991523-gg4vmlt4icf2u9i7be92k0ogigqcb16l.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">781461991523</string>
+    <string name="google_api_key" translatable="false">AIzaSyCxJRXEdU7o6jzIJJZ6JYjLs81A8acspr4</string>
+    <string name="google_app_id" translatable="false">1:781461991523:android:571355f5f0be06c26b8856</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCxJRXEdU7o6jzIJJZ6JYjLs81A8acspr4</string>
+    <string name="google_storage_bucket" translatable="false">fabtime-bbfcd.appspot.com</string>
+    <string name="project_id" translatable="false">fabtime-bbfcd</string>
+</resources>
